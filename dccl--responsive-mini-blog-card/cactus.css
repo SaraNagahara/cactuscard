@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+
+body{
+    background-color: #FAFAF9;
+    font-family: "Sora", sans-serif;
+    
+}
+
+button{
+    color: #883AE1;
+    background-color: #E6D6FC;
+    border-radius: 9px;
+    border: none;
+    font-weight: 700;
+    font-size: 0.625rem;
+    width: 68px;
+    height: 20px;
+    font-family: "Sora", sans-serif;
+    margin-top: 11px;
+    
+}
+
+h3{
+    font-family: "Sora", sans-serif;
+    color: #20293A;
+    margin-bottom: -6px;
+}
+
+p, hr{
+    color: #6C727F;
+    font-size: 14px;
+}
+
+.footer{
+    font-family: "Sora", sans-serif;
+}
+
+img{
+    height: 152px;
+    border-radius: 10px;
+}
+
+
+
+#card-body{
+    border-radius: 10px;
+    margin-top: 164px;
+    margin-left: 40%;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 20px;
+    width: 336px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
+}
+
